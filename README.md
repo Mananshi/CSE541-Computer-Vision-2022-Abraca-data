@@ -25,7 +25,7 @@ For various algorithms, results are generated in a graphical form. Please have a
 ![](Results/resnet50_accuracy_epochs.jpeg)
 
 #### Confusion Metrics
-![](Results/confusion matrix.jpeg)
+<img src="Results/confusion_matrix.jpeg" width="50%" height="50%">
 
 
 ## References
