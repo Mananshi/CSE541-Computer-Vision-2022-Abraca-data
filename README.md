@@ -1,6 +1,6 @@
 # Distracted Driver Detection
 ## Team Abraca-data
-### CSE523 - Machine Learning, Ahmedabad University
+### CSE541 - Computer Vision, Ahmedabad University
 
 ## Introduction
 Number of road accidents is continuously increasing in last few years worldwide. As per the survey of National Highway Traffic Safety Administrator, nearly one in five motor vehicle crashes are caused by distracted driver. We attempt to develop an accurate and robust system for detecting distracted driver and warn him against it. Motivated by the performance of Convolutional Neural Networks in computer vision, we present a CNN based system that not only detects the distracted driver but also identifies the cause of distraction. We unfreeze the last few layers of the ResNet50 model and perform data augementation and fine tune our hyperparameters to improve the performance of our model. We can infer that among various CNN models ResNet50 outperforms others with an accuracy of 90%.
